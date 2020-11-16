@@ -12,13 +12,13 @@ to the jss.</string>
 		<key>CATEGORY</key>
 		<string>Productivity</string>
 		<key>GROUP_NAME</key>
-		<string>%NAME%.app = Yes, Update</string>
+		<string>%NAME%-update-smart</string>
 		<key>GROUP_TEMPLATE</key>
 		<string>CFBundleVersionSmartGroupTemplate.xml</string>
 		<key>NAME</key>
 		<string>Google Earth</string>
 		<key>POLICY_CATEGORY</key>
-		<string>Productivity</string>
+		<string>Utilities</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
@@ -48,7 +48,7 @@ to the jss.</string>
 				<array>
 					<dict>
 						<key>name</key>
-						<string>%GROUP_NAME%</string>
+						<string>%NAME%.app = Yes, Update</string>
 						<key>smart</key>
 						<true/>
 						<key>template_path</key>
